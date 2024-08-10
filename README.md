@@ -4,8 +4,8 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você pode entrar em contato comigo 📫
 breno.almeida.rosa@gmail.com
-![](link)
-C:\Users\fxnob\Downloads\liberte-sua-paixao-rubro-negra-gifs-exclusivos-da-bandeira-do-flamengo-1.gif
+
+
 <!--
 **brenoalmeidarosa/brenoalmeidarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
